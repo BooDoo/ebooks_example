@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
-ruby '2.1.3'
+ruby '2.5.1'
 
-gem 'twitter_ebooks', '3.0.6'
+gem 'twitter_ebooks', '3.1.6'
 gem 'dotenv'
